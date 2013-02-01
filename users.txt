@@ -1,0 +1,2 @@
+VisualSVN Server = Visual SVN Server <svnadmin@company.com>
+firstname.lastname = Firstname Lastname <firstname.lastname@company.com>
