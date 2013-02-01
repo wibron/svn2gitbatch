@@ -1,3 +1,4 @@
+# List all your repositories
 repos = ['testrepo', 'Another_repo']
 
 # Set the base-url for all repositories
