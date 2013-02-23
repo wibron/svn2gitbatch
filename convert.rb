@@ -6,5 +6,5 @@ base_url = 'https://svn.company.com:88/svn/'
 config = 'users.txt'
 
 repos.each do |repo|
-  system("git svn clone --stdlayout --authors-file=#{config} #{base_url}#{repo}/ #{repo}")
+  system "git svn clone --stdlayout --authors-file=#{config} #{base_url}#{repo}/ #{repo}"
 end
